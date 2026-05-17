@@ -1,0 +1,6 @@
+# 每行一个 M3U/M3U8 播放列表 URL，# 开头为注释
+# 示例（替换为你自己的地址）：
+# https://example.com/iptv/playlist.m3u
+# https://example.com/iptv/playlist.m3u8
+# 本地文件示例（支持相对路径、绝对路径、file:// URI）：
+https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u

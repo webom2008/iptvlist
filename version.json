@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "releaseNotes": "首发版本",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "releaseNotes": "验证ota功能是否正常",
   "apkUrl": "https://gh-proxy.com/raw.githubusercontent.com/webom2008/iptvlist/main/myiptv.apk"
 }
